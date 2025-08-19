@@ -7,7 +7,7 @@ O dataset (`Vendas.xlsx`) contém informações de lojas, produtos e faturamento
 
 ## 📂 Estrutura do Projeto
 - `Vendas.xlsx` → Base de dados utilizada na análise  
-- `analise_vendas.R` → Script principal contendo:
+- `script.R` → Script principal contendo:
   - Importação e exploração inicial dos dados
   - Manipulação com `dplyr`
   - Cálculo de métricas de faturamento
